@@ -9,4 +9,6 @@ for (let i = 0; i < 3; i++) {
     }
 }
 
-console.log(matriz);
+const acesso = matriz[1][2];
+
+console.log(matriz,acesso);
