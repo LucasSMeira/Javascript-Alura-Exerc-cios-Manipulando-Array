@@ -11,4 +11,6 @@ for (let i = 0; i < 3; i++) {
 
 const acesso = matriz[1][2];
 
+matriz[2][1] = 15;
+
 console.log(matriz,acesso);
